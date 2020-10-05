@@ -1,0 +1,1 @@
+canvas = document.querySelector("canvas");
